@@ -8,7 +8,7 @@ I'm interested in embedded systems and artificial intelligence.
 
 ## 📊 My GitHub Stats
 
-![Rowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rowanammar&show_icons=true&theme=dracula)
+![Rowan's GitHub stats](https://github.com/rowanammar/terminal-readme/blob/master/github_stats.svg)
 
 
 ## 🔮Languages and tools
