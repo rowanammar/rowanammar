@@ -2,9 +2,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata+&size=30&pause=1000&color=85BEFD&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;Rowan+Here!;FCAI+Student" >
 </p>
-## 📊 My GitHub Stats
+<hr>
+
+
+##  📊 My GitHub Stats
 
 ![Rowan's GitHub stats](https://github.com/rowanammar/terminal-readme/blob/master/github_stats.svg)
+<hr>
 
 
 ## 🔮Languages and tools
@@ -17,6 +21,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
+<hr>
 
 ## 🎶Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d09f217t96w8s61w8jwflnuka&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=800040&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
