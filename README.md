@@ -1,10 +1,7 @@
 # Hello!👋
-This is Rowan
 
-I'm a student at FCAI- <a href="https://cu.edu.eg/Home">Cairo university</a>, passionate about programming and learning new skills.
 
-I'm interested in embedded systems and artificial intelligence.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata+&size=30&pause=1000&color=85BEFD&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;Rowan+Here!;FCAI+student)](https://git.io/typing-svg)
 
 ## 📊 My GitHub Stats
 
