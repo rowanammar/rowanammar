@@ -32,7 +32,7 @@
 ## 🤝 Connect with me
 
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg )](www.linkedin.com/in/rawan-ehab-226435261)-->
-<a href="https://www.linkedin.com/in/rawan-ehab-226435261"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="www.linkedin.com/in/rawan523" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:rawanehab523@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
