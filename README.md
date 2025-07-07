@@ -7,7 +7,7 @@
 
 ##  📊 My GitHub Stats
 
-![Rowan's GitHub stats](https://github.com/rowanammar/terminal-readme/blob/master/github_stats.svg)
+![Rowan's GitHub stats](https://github.com/rowanammar/terminal-readme/blob/3b7cf966b3fa83a90049c87fe040e9eb0a0eec43/github_stats.svg)
 <hr>
 
 
