@@ -7,7 +7,7 @@
 
 ##  📊 My GitHub Stats
 
-  <img height=200 align="center" src="https://github-readme-stats-48bk0p403-rawans-projects-9230ed37.vercel.app/api?username=rowanammar" />
+  <img height=200 align="center" src="https://github-readme-stats-alpha-sepia-30.vercel.app/api?username=rowanammar" />
 <br>
 <hr>
 
