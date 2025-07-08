@@ -8,7 +8,7 @@
 ##  📊 My GitHub Stats
 
 <a href="github-readme-stats-48bk0p403-rawans-projects-9230ed37.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="github-readme-stats-48bk0p403-rawans-projects-9230ed37.vercel.app" />
 </a>
 
 <hr>
