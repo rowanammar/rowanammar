@@ -7,7 +7,10 @@
 
 ##  📊 My GitHub Stats
 
-![Rowan's GitHub stats](https://github.com/rowanammar/terminal-readme/blob/3b7cf966b3fa83a90049c87fe040e9eb0a0eec43/github_stats.svg)
+<a href="github-readme-stats-48bk0p403-rawans-projects-9230ed37.vercel.app">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+
 <hr>
 
 
