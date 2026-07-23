@@ -1,6 +1,6 @@
 # Hello!👋
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata+&size=30&pause=1000&color=85BEFD&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;Rowan+Here!;FCAI+Student" >
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata+&size=30&pause=1000&color=85BEFD&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;Rowan+Here!;Aspiring+DevOps+Engineer!" >
 </p>
 <hr>
 
